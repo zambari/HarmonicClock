@@ -30,7 +30,7 @@ Usage Demos:
 
 [https://www.youtube.com/watch?v=DKcpQGguL5g](https://www.youtube.com/watch?v=DKcpQGguL5g)
 
-There is no schematic as such, as the board was just soldered on a stripboard without much thought, but its simple enough to figure out. Features of the firmware are: parsing midi notes, controlling note flashing and fades, interface control. There is simple midi processing routnie drafted but it doesn't do anything terribly useful at the moment. 
+There is no schematic as such, as the board was just soldered on a stripboard without much thought, but its simple enough to figure out. Leds are driven via three shift registers connected in serial. Features of the firmware are: parsing midi notes, controlling note flashing and fades, interface control. There is simple midi processing routnie drafted but it doesn't do anything terribly useful at the moment. 
 Pull requests welcome
 
 ![Screenshot](demo_video_screenshots/2019-07-07_22_03_15-Window.png)
