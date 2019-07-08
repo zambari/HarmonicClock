@@ -1,7 +1,7 @@
 ### Harmonic Clock
 HACL is a DIY project, where 12, 24 (etc) LEDs are mounted into a surface of an analog clock, and are used to signal incoming MIDI Signals
 
-The firmware defaults to listening on all MIDI channels, but there is a simple interface option provided, consiting with an push encoder and three buttons. An alternative mode which unfolds two octaves (To differntiate between alternate octaves)
+The firmware defaults to listening on all MIDI channels, but there is a simple interface option provided, consiting with a potentiometer and three buttons, which enables preview only some channels. An alternative mode which unfolds two octaves (To differntiate between alternate octaves)
 
 ![Screenshot](demo_video_screenshots/Harmonic_clock_hardware_completed_small.jpg)
 
