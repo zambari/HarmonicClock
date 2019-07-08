@@ -30,6 +30,6 @@ Usage Demos:
 
 [https://www.youtube.com/watch?v=DKcpQGguL5g](https://www.youtube.com/watch?v=DKcpQGguL5g)
 
-
+There is no schematic as such, as the board was just soldered on a stripboard without much thought, but its simple enough to figure out
 
 ![Screenshot](demo_video_screenshots/2019-07-07_22_03_15-Window.png)
