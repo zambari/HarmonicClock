@@ -1,12 +1,12 @@
 //
-// HA-CL:: HARMONIC CLOCK FIRMWARE EQ-AV 2010
+// HA-CL:: HARMONIC CLOCK FIRMWARE Zambari // EQ-AV 2010
 // 
 // release 8
 // other functions.pde
 //
 
         
-        void blinkCenter()
+void blinkCenter()
 {
               statusCenterCounter=defTime;
 }
@@ -20,9 +20,6 @@ void blink2()
 {
               status2Counter=defTime;
 }
-
-
-
 
 
 void buttonsRead()
